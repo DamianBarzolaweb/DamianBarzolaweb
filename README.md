@@ -1,65 +1,14 @@
+![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png)
 
-# Damian Barzola
+I'm a web developer who lives in Argentina. I'm still learning how to code. Making and designing webpages with HTML, CSS and JavaScript. It's nice and get my attention to code something that anyone on the web can easily see. 
 
-<img src="images/me.jpg" align="right" />
+Check out my initial proyects and Feel free to create a pull request to contribute to any of my repositories.
 
-Soy Damian Barzola
+- 🌱 I’m currently learning HTML, CSS, Python, and C++.
+- 🔭 I’m currently working on creating two api/webpage:
+    . Casabona-Catering it's about a food service company, and they need fully webpage and a interaction with some database of MySQL to get client information with the proposal to contact them.
+    - Shen gi Tai it's about a cloth brand of martial arts. They need a responsive webpage and ecommerce section. 
+- 😀 I like to football, code, read, and travel in my free time.
+- ⚡ Fun fact: My first line of code was not "Hello World!"
 
-I work at [Axelerant](https://axelerant.com) and contribute to open source software (mostly Drupal) as part of my work and out of my own interest. I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about me.
-
----
-
-**Social Media:**
-
-[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
-[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
-[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
-[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
-
-**Currently working with:**
-
-<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
-<a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
-<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
-
-**Learning:**
-
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-
-**Previously worked with:**
-
-<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
-<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
-<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
-<a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
-
-**Currently focused on building:**
-
-- [axl-template](https://github.com/axelerant/axl-template)
-- [db-docker](https://github.com/axelerant/db-docker)
-- [drupalqa](https://github.com/hussainweb/drupalqa)
-
-[How did I build this?](https://youtu.be/UqNbBe3lVCI)
+[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
