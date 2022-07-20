@@ -10,7 +10,7 @@ Check out my initial proyects and feel free to create a pull request to contribu
     Take a look here!: </br>
 https://github.com/DamianBarzolaweb/Casabona-Catering
     
-    - Shen gi Tai it's about martial arts clothes. But it's also a concept and a lifestyle page. They need a responsive webpage and ecommerce section ¡Actually working on this!</br>
+    - Shen gi Tai it's about martial arts clothes. But it's also a concept and a lifestyle page. They need a responsive webpage and ecommerce section. Actually working on this!</br>
     
     Take a look here!: </br>
 https://github.com/DamianBarzolaweb/Shin-Gi-Tai
