@@ -20,7 +20,7 @@ https://github.com/DamianBarzolaweb/Shin-Gi-Tai
 
 <strong>https://boxdigital.my.canva.site/</strong>
 
-- 📫 How to reach me: [@soyeldamo](https://twitter.com/soyeldamo) on Twitter
+- 📫 How to reach me: [@soyeldamo](https://twitter.com/soyeldamo) on Twitter, [@soyeldamo](https://www.instagram.com/damobrz/) on Instagram
 
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
