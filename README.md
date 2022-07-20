@@ -1,4 +1,3 @@
-
 I'm a web developer who lives in Argentina. I'm still learning how to code. Making and designing webpages with HTML, CSS and JavaScript. It's nice and get my attention to code something that anyone on the web can easily see. 
 
 Check out my initial proyects and Feel free to create a pull request to contribute to any of my repositories.
@@ -20,6 +19,8 @@ https://github.com/DamianBarzolaweb/Shin-Gi-Tai
 - 🌱 I'mAlso working as CM of a different types of small brands wich born in pandemic. You can take a look of this works here: </br>
 
 <strong>https://boxdigital.my.canva.site/</strong>
+
+- 📫 How to reach me: [@soyeldamo](https://twitter.com/soyeldamo) on Twitter
 
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
