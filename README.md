@@ -17,5 +17,9 @@ https://github.com/DamianBarzolaweb/Casabona-Catering
 https://github.com/DamianBarzolaweb/Shin-Gi-Tai
     
 - 😀 I like to football, code, read, and travel in my free time.
+- 🌱 I'mAlso working as CM of a different types of small brands wich born in pandemic. You can take a look of this works here: </br>
+
+<strong>https://boxdigital.my.canva.site/</strong>
+
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
