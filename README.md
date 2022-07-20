@@ -5,7 +5,7 @@ Check out my initial proyects and Feel free to create a pull request to contribu
 
 - 🌱 I’m can work with HTML, CSS, JavaScript, Nodejs. Learning React and more of Js.
 - 🔭 I’m currently working on creating two api/webpage:
-    . Casabona-Catering it's about a food service company, and they need fully webpage and a interaction with some database of MySQL to get client information with the proposal to contact them.
+    . Casabona-Catering it's about a food service company, and they need fully webpage and a interaction with some database of MySQL to get client information with the proposal to contact them.</br>
     Take a look here!: 
 (https://github.com/DamianBarzolaweb/Casabona-Catering)
     
