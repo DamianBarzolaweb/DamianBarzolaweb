@@ -1,7 +1,6 @@
-### Hi there 👋
+Hi everyone 👋
 
-
-Here are some ideas to get you started:
+My friends and family call me "damo" since I was a kid, so you can only say "Hi, damo!". I'm passionated about technology, looking for my first job in IT.
 
 - 🔭 I’m currently working on two proyects with Express and Nodejs
 - 🌱 I’m currently learning React & js
