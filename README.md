@@ -16,11 +16,7 @@ https://github.com/DamianBarzolaweb/Casabona-Catering
 https://github.com/DamianBarzolaweb/Shin-Gi-Tai
     
 - 😀 I like to football, code, read, and travel in my free time.
-- 🌱 I'mAlso working as CM of a different types of small brands which born in pandemic. You can take a look of this works here: </br>
-
-<strong>https://boxdigital.my.canva.site/</strong>
 
 - 📫 How to reach me: [@soydamian](https://twitter.com/soyeldamo) on Twitter, [@soydamian](https://www.instagram.com/damobrz/) on Instagram
 
-- ⚡ Fun fact: My first line of code was not "Hello World!"
 
